@@ -17,7 +17,7 @@
 		{% if site.data.sidebar.linkedin && site.data.sidebar.linkedin != "" %}<a target="_blank" href="https://www.linkedin.com/in/{{ site.data.sidebar.linkedin }}">{% include social-icon.html icon="LinkedIn" %}</a>{% endif %} 
 		{% if site.data.sidebar.github && site.data.sidebar.github != "" %}<a target="_blank" href="https://github.com/{{ site.data.sidebar.github }}">{% include social-icon.html icon="GitHub" %}</a>{% endif %} 
 		{% if site.data.sidebar.email && site.data.sidebar.email != "" %}<a target="_blank" href="mailto:{{ site.data.sidebar.email }}">{% include social-icon.html icon="Email" %}</a>{% endif %} 
-		<a target="_blank" href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %}</a>
+		<!-- <a target="_blank" href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %}</a> -->
 	</div>
 
 	{% if site.newsletter_action && site.newsletter_action!=""%}<form action="{{ site.newsletter_action }}" method="post">
