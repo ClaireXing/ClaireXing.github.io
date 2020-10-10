@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Claire Xing's homepage
+title: Claire Xing's Homepage
 url: "https://spring-bat.cloudvent.net/"
 baseurl:
 google_analytics_key:
@@ -83,6 +83,7 @@ social_icons:
   - Twitter
   - YouTube
   - RSS
+  - Email
 
 _options:
   author_image:
