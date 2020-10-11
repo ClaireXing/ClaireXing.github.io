@@ -40,4 +40,8 @@ title: Contact
 	<textarea name="message" id="message"></textarea>
 
 	<input type="submit" value="Send Message" />
+	<div class="contact-details">
+		<h3>Address</h3>
+		<address><a target="_blank" href=" ">{{ page.map.address | replace: ", ", ", <br>" }}</ a></address>
+	 </div>
 </form>
