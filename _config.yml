@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Treat Template
+title: Claire Xing's Homepage
 url: "https://spring-bat.cloudvent.net/"
 baseurl:
 google_analytics_key:
@@ -13,7 +13,7 @@ logo: /siteicon.png
 description: Food blog template for Jekyll.
 author:
   name:
-  email:
+  email: xyxing@pku.edu.cn
   twitter: # twitter username without the @ symbol
 social:
   name: Treat Template
@@ -83,6 +83,7 @@ social_icons:
   - Twitter
   - YouTube
   - RSS
+  - GitHub
 
 _options:
   author_image:
