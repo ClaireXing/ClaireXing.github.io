@@ -3,7 +3,8 @@ date: 2020-10-18
 title: The algorithm finding the least cost path with given cost raster and points.
 project_categories:
   - The Least Cost Path Plugin for QGIS
-featured_image: "{{ site.baseurl }}{{ /images/LCP.png }}"
+img_path: /images/LCP.png
+featured_image: "{{ site.baseurl }}{{ page.img_path }}"
 url: "https://github.com/ClaireXing/LeastCostPath"
 recipe:
   servings: 60 cookies
