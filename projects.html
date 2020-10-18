@@ -4,13 +4,15 @@ image_view: true
 ---
 <h1>Projects</h1>
 
+
+
 {% if page.image_view %}
 	{% for category in site.categories %}
 		<h2>{{ category[0] }}</h2>
 		<div class="recipes">
-			{% for project in category[1] %}
-				<div class="recipes" style="background-image: url('{{ recipe.featured_image }}')">
-					<a href="https://github.com/ClaireXing/LeastCostPath"><span>{{ Least cost path }}</span></a>
+			{% for recipe in category[1] %}
+				<div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+					<a href="https://github.com/ClaireXing/LeastCostPath"><span>{{ recipe.title }}</span></a>
 				</div>
 			{% endfor %}
 		</div>
