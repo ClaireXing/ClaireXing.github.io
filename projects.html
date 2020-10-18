@@ -1,13 +1,14 @@
 ---
 title: Projects
 image_view: true
+feature_img: /images/LCP.png
 ---
 <h1>Projects</h1>
 
 {% if page.image_view %}
 	<h2>{{ The Least Cost Path Plugin for QGIS }}</h2>
 		<div class="recipes">
-			<div class="recipe" style="background-image: url('{{ site.baseurl }}{{ /images/LCP.png }}')">
+			<div class="recipe" style="background-image: url('{{ site.baseurl }}{{page.feature_img}}')">
 					<a href="https://github.com/ClaireXing/LeastCostPath"><span>{{ The algorithm finding the least cost path with given cost raster and points. }}</span></a>
 			</div>
 		</div>
