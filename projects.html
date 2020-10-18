@@ -7,9 +7,9 @@ image_view: true
 {% if page.image_view %}
 	{% for category in site.categories %}
 		<h2>{{ category[0] }}</h2>
-		<div class="projects">
+		<div class="recipes">
 			{% for project in category[1] %}
-				<div class="project" style="background-image: url('{{ recipe.featured_image }}')">
+				<div class="recipes" style="background-image: url('{{ recipe.featured_image }}')">
 					<a href="https://github.com/ClaireXing/LeastCostPath"><span>{{ Least cost path }}</span></a>
 				</div>
 			{% endfor %}
