@@ -2,7 +2,7 @@
 date: 2017-01-07
 title: Chocolate Cupcakes
 categories:
-  - Cupcakes
+  - LCP
   - Cakes
 featured_image: https://source.unsplash.com/qJ0zGkrE1Zg/1560x940
 recipe:
