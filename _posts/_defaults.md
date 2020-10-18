@@ -1,6 +1,7 @@
 ---
 title:
 categories:
+project_categories:
 date:
 featured_image:
 recipe:
