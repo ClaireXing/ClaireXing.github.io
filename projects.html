@@ -5,6 +5,15 @@ image_view: true
 <h1>Projects</h1>
 
 {% if page.image_view %}
+	<h2>{{ The Least Cost Path Plugin for QGIS }}</h2>
+		<div class="recipes">
+			<div class="recipe" style="background-image: url('{{ site.baseurl }}{{ /images/LCP.png }}')">
+					<a href="https://github.com/ClaireXing/LeastCostPath"><span>{{ The algorithm finding the least cost path with given cost raster and points. }}</span></a>
+			</div>
+		</div>
+{% endif %}
+
+<!-- {% if page.image_view %}
 	{% for category in site.project_categories %}
 		<h2>{{ category[0] }}</h2>
 		<div class="recipes">
@@ -15,4 +24,4 @@ image_view: true
 			{% endfor %}
 		</div>
 	{% endfor %}
-{% endif %}
+{% endif %} -->
