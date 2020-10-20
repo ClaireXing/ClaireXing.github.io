@@ -8,7 +8,7 @@ featured_image: /images/NRN-coverfig.png
 
 My first research published in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (I'm very happy, hahah), demonstrating how remote sensing imagery can be used through an end-to-end deep learning framework for reliable estimates of human activity volumes.
 
-> <a href="https://ieeexplore.ieee.org/abstract/document/9195736/"><span>{{Xing, X., Huang, Z., Cheng, X., Zhu, D., Kang, C., Zhang, F., &amp;amp; Liu, Y. (2020). Mapping Human Activity Volumes Through Remote Sensing Imagery. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 13, 5652-5668.}}</span></a>
+> <a href="https://ieeexplore.ieee.org/abstract/document/9195736/">{{Xing, X., Huang, Z., Cheng, X., Zhu, D., Kang, C., Zhang, F., &amp;amp; Liu, Y. (2020). Mapping Human Activity Volumes Through Remote Sensing Imagery. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 13, 5652-5668.}}</a>
 
 
 ### Contributions:
