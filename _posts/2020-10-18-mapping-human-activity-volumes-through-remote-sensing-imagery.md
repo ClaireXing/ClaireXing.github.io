@@ -4,6 +4,7 @@ title: Mapping human activity volumes through remote sensing imagery
 categories:
   - Researches
 featured_image: /images/NRN-coverfig.png
+math: true
 ---
 
 My first research published in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (I'm very happy, hahah), demonstrating how remote sensing imagery can be used through an end-to-end deep learning framework for reliable estimates of human activity volumes.
