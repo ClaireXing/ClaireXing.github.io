@@ -8,7 +8,7 @@ layout: default
 	</div>
 
 	<div class="recipe-body">
-		{{ content }}
+		{{ content | markdownify }}
 	</div>
 
 	{% if site.disqus_shortname and page.comments %}
