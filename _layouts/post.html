@@ -11,6 +11,12 @@ layout: default
 		{{ content | markdownify }}
 	</div>
 
+	{% if page.math %}
+		<!-- MathJax -->
+		<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+		<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+	{% endif %}
+
 	{% if site.disqus_shortname and page.comments %}
 		<div id="disqus_thread"></div>
 		<script>
