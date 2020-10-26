@@ -48,4 +48,4 @@ math: true
 
 Most songs in Taylor's new album "folklore" are slow and quiet. I love \<cardigan>, \<exile>, \<mirrorball> and \<betty> most. The recommended video is her live show in the 2020 Academy of Country Music Awards. I was really impressed by Taylor's smile in this video and the bright spot on the stage. 
 
-<img src= "{{site.baseurl}}\images\weekly\taylor-betty.jpg" alt="taylor" style="zoom:50%;" div align=center />
+<p align="center"><img src= "{{site.baseurl}}\images\weekly\taylor-betty.jpg" alt="taylor" style="zoom:50%;"/></p>
