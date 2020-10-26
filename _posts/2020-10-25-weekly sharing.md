@@ -1,6 +1,6 @@
 ---
 date: 2020-10-25 00:00:00
-title: 2020-10-25 reading and music
+title: 2020-10-25 Reading and music
 categories:
   - Weekly sharing
 featured_image: /images/weekly/20201025.jpg
