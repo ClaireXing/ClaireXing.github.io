@@ -43,7 +43,7 @@ math: true
 <p></p>
 ------
 
-<p align="center"><-------------- I'd like to share some nice photos I've taken in this week. --------------></p>
+<p align="center"><-------------- Autumn is coming! I'd like to share some nice photos I've taken this week. --------------></p>
 
 ### Autumn in PKU:
 
