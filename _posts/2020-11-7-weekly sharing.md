@@ -29,10 +29,9 @@ math: true
 
 3. <a href="https://www.nature.com/articles/s42256-020-00243-5">Abitbol, J.L. and Karsai, M., 2020. Interpretable socioeconomic status inference from aerial imagery through urban patterns. *Nature Machine Intelligence*, pp.1-9.</a>
    
+   **Key idea:** 解译航空观测下的城市模式与社会经济属性间的联系 
 
-**Key idea:** 解译航空观测下的城市模式与社会经济属性间的联系 
-
-**Experiment:** aerial imagery + EfficientNetB0 = income classes，guided Grad-CAM做解译
+   **Experiment:** aerial imagery + EfficientNetB0 = income classes，guided Grad-CAM做解译
 
    **Tips:** 本文与我之前的工作Mapping human activity volumes through remote sensing imagery思路基本一致（预测，解译，邻域影响）。可借鉴的地方在于，它显式地将输入的物理环境信息与土地利用相结合，包括某种land use类型的重要性+邻接land use的双变量联系
 
@@ -47,7 +46,10 @@ math: true
 
 ### Autumn in PKU:
 
-<p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn1.jpg" alt="autumn1" width = "40%"/><img src= "{{site.baseurl}}\images\weekly\autumn2.jpg" alt="autumn2" width = "40%"/></p>
-<p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn3.jpg" alt="autumn3" width = "40%"/><img src= "{{site.baseurl}}\images\weekly\autumn4.jpg" alt="autumn4" width = "40%"/></p>
-<p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn7.jpg" alt="autumn7" width = "40%"/><img src= "{{site.baseurl}}\images\weekly\autumn6.jpg" alt="autumn6" width = "40%"/></p>
-<p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn5.jpg" alt="autumn5" width = "40%"/></p>
+<p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn1.jpg" alt="autumn1" width = "70%"/></p>
+<p align="center"><<img src= "{{site.baseurl}}\images\weekly\autumn2.jpg" alt="autumn2" width = "70%"/></p>
+<p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn3.jpg" alt="autumn3" width = "70%"/></p>
+<p align="center"><<img src= "{{site.baseurl}}\images\weekly\autumn4.jpg" alt="autumn4" width = "70%"/></p>
+<p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn7.jpg" alt="autumn7" width = "70%"/></p>
+<p align="center"><<img src= "{{site.baseurl}}\images\weekly\autumn6.jpg" alt="autumn6" width = "70%"/></p>
+<p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn5.jpg" alt="autumn5" width = "70%"/></p>
