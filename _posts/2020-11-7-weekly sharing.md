@@ -49,5 +49,5 @@ math: true
 
 <p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn1.jpg" alt="autumn1" width = "40%"/>  <img src= "{{site.baseurl}}\images\weekly\autumn2.jpg" alt="autumn2" width = "40%"/></p>
 <p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn3.jpg" alt="autumn3" width = "40%"/>  <img src= "{{site.baseurl}}\images\weekly\autumn4.jpg" alt="autumn4" width = "40%"/></p>
-<p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn7.jpg" alt="autumn5" width = "40%"/>  <img src= "{{site.baseurl}}\images\weekly\autumn6.jpg" alt="autumn6" width = "40%"/></p>
+<p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn7.jpg" alt="autumn7" width = "40%"/>  <img src= "{{site.baseurl}}\images\weekly\autumn6.jpg" alt="autumn6" width = "40%"/></p>
 <p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn5.jpg" alt="autumn5" width = "40%"/></p>
