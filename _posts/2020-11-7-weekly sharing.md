@@ -20,7 +20,6 @@ math: true
    "How much does **the city shape change** through the course of the day? Where are the city’s hotspots located at different hours of the day? How are these hotspots **spatially organized**? Is the hierarchy and the spatial organization of hotspots **robust** through time? Is there some kind of typical distance(s) characterizing the permanent core, or ‘backbone’, of each city? "
 
 2. <a href="https://www.pnas.org/content/110/14/E1248.short">Zheng, S. and Kahn, M.E., 2013. China’s bullet trains facilitate market integration and mitigate the cost of megacity growth. *Proceedings of the National Academy of Sciences*, *110*(14), pp.E1248-E1253.</a>
-   []()
 
    **Key idea:** 中国高铁网络发展促进区域经济整合，一方面缓解大城市快速增长中的住房、人口、交通、环境压力，降低集聚成本，另一方面提高铁路沿线辐射城市市场潜力，拉动中小城市经济发展
 
@@ -51,4 +50,3 @@ math: true
 <p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn1.jpg" alt="autumn1" width = "50%"/>  <img src= "{{site.baseurl}}\images\weekly\autumn2.jpg" alt="autumn2" width = "50%"/></p>
 <p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn3.jpg" alt="autumn3" width = "50%"/>  <img src= "{{site.baseurl}}\images\weekly\autumn4.jpg" alt="autumn4" width = "50%"/></p>
 <p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn5.jpg" alt="autumn5" width = "50%"/>  <img src= "{{site.baseurl}}\images\weekly\autumn6.jpg" alt="autumn6" width = "50%"/></p>
-<!-- <img src="C:\Users\admin\AppData\Local\Temp\WeChat Files\ba288fdbf0fd0c0391b641e983a8941.jpg" alt="ba288fdbf0fd0c0391b641e983a8941" style="zoom:6%;" /> <img src="C:\Users\admin\AppData\Local\Temp\WeChat Files\ba288fdbf0fd0c0391b641e983a8941.jpg" alt="ba288fdbf0fd0c0391b641e983a8941" style="zoom:6%;" /> -->
