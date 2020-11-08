@@ -1,5 +1,5 @@
 ---
- date: 2020-11-7 00:00:00
+date: 2020-11-7 00:00:00
 title: 2020-11-7 Reading and photos
 categories:
   - Weekly sharing
