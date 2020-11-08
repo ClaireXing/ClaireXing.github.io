@@ -3,7 +3,7 @@ date: 2020-11-7 00:00:00
 title: 2020-11-7 Reading and photos
 categories:
   - Weekly sharing
-featured_image: /images/weekly/20201107.jpg
+featured_image: /images/weekly/20201107.png
 math: true
 ---
 
@@ -43,10 +43,11 @@ math: true
 <p></p>
 ------
 
-<p align="center"><-------------- 入秋啦，拍了好看的校园景色和大家分享 --------------></p>
+<p align="center"><-------------- I'd like to share some nice photos I've taken in this week. --------------></p>
 
 ### Autumn in PKU:
 
-<p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn1.jpg" alt="autumn1" width = "20%"/>  <img src= "{{site.baseurl}}\images\weekly\autumn2.jpg" alt="autumn2" width = "20%"/></p>
-<p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn3.jpg" alt="autumn3" width = "20%"/>  <img src= "{{site.baseurl}}\images\weekly\autumn4.jpg" alt="autumn4" width = "20%"/></p>
-<p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn5.jpg" alt="autumn5" width = "20%"/>  <img src= "{{site.baseurl}}\images\weekly\autumn6.jpg" alt="autumn6" width = "20%"/></p>
+<p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn1.jpg" alt="autumn1" width = "40%"/>  <img src= "{{site.baseurl}}\images\weekly\autumn2.jpg" alt="autumn2" width = "40%"/></p>
+<p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn3.jpg" alt="autumn3" width = "40%"/>  <img src= "{{site.baseurl}}\images\weekly\autumn4.jpg" alt="autumn4" width = "40%"/></p>
+<p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn7.jpg" alt="autumn5" width = "40%"/>  <img src= "{{site.baseurl}}\images\weekly\autumn6.jpg" alt="autumn6" width = "40%"/></p>
+<p align="center"><img src= "{{site.baseurl}}\images\weekly\autumn5.jpg" alt="autumn5" width = "40%"/></p>
